@@ -16,11 +16,6 @@
 <a href="https://linkedin.com/in/nischalskanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nischalskanda" height="30" width="40" /></a>
 <a href="https://instagram.com/nischal.skanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nischal.skanda" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexo77&show_icons=true&locale=en&layout=compact" alt="rexo77" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rexo77&show_icons=true&locale=en" alt="rexo77" /></p>
-
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RexO77&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
