@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nischal Skanda</h1>
-<h3 align="center">A passionate UX/UI Designer, Programmer from India</h3>
+<link href="style.css" rel="stylesheet"></link>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rexo77&label=Profile%20views&color=0e75b6&style=flat" alt="rexo77" /> </p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+I'm+Nischal+Skanda!%2F%3E)
+
+
+<h3 align="left">A passionate UX/UI Designer, Developer from Bengaluru, India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rexo77&label=Profile%20views&color=0e75b6&style=flat" alt="rexo77" /> </p>
 
 
 - 🌱 I’m currently learning **Advanced UX/UI, Database and App Development**
