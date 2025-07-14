@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Expermenting with AI**
 
-- 💬 Ask me about **Programming, UX/UI, Web Design**
+- 💬 Ask me about **Programming, Product Design, Web Design**
 
 - 📫 How to reach me **nischal.skanda07@gmail.com**
 
