@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexo77&label=Profile%20views&color=0e75b6&style=flat" alt="rexo77" /> </p>
 
 
-- 🌱 I’m currently learning **Machine Learning and Expermenting with AI**
+- 🌱 I’m currently learning **Product Design & ML and Expermenting with AI**
 
 - 💬 Ask me about **Programming, Product Design, Web Design**
 
