@@ -1,14 +1,19 @@
-<link href="style.css" rel="stylesheet"></link>
+<h2 align="left">Hey, I'm Nischal Skanda</h2>
 
-<h3 align="left"> I love thinking and building in systems that last, I enjoy the process of building them and knowing how things work on a macro level!</h3>
+<h3 align="left">
+Product Design Engineer exploring the space between design, code, systems, and AI.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexo77&label=Profile%20views&color=0e75b6&style=flat" alt="rexo77" /> </p>
 
+I design and build product experiences with a focus on clarity, craft, and how systems work under the hood.
 
-- 🌱 I’m currently learning **Product Design & ML and Expermenting with AI**
+Currently, I’m working across product design, frontend engineering, and AI experiments — trying to understand not just how things look, but how they behave, scale, and create value.
 
-- 💬 Ask me about **Programming, Product Design, Web Design**
+* 🧠 Interested in **product systems, interaction design, AI tools, and frontend craft**
 
-- 📫 How to reach me **nischal.skanda07@gmail.com**
+* 🛠️ Building with **design, code, and a lot of first-principles thinking**
 
-</p>
+* 💬 Ask me about **Product Design, Web Design, Frontend Development, and AI-assisted building**
+
+* 📫 Reach me at **[nischal.skanda07@gmail.com](mailto:nischal.skanda07@gmail.com)**
